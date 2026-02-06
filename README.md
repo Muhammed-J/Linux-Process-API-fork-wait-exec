@@ -123,24 +123,3 @@ The C programs using Linux Process API (fork(), wait(), exec()) were executed su
 
 
 
-##OUTPUT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# RESULT:
-The programs are executed successfully.
